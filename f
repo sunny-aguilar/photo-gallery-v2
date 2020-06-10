@@ -8,7 +8,7 @@
 function push_commit()
 {
     #commit changes
-    git commit -am 'landing page'
+    git commit -am 'photo gallery v2'
     # push to github
     git push
 }
