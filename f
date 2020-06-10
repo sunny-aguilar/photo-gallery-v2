@@ -16,7 +16,7 @@ function push_commit()
 function commit()
 {
     # commt changes only
-    git commit -am 'landing page'
+    git commit -am 'photo gallery v2'
 }
 
 # what to run
